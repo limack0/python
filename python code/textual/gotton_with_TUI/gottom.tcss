@@ -1,0 +1,27 @@
+Header {
+  dock: top;
+  height: 3;
+  content-align: center middle;
+  background: red;
+  color: white;
+}
+#userContainer {
+    layout: horizontal;
+    align-vertical: bottom;
+    
+    
+}
+#mainContainer {
+    layout: vertical;
+    
+}
+#screenContainer {
+    layout: vertical;
+    height: 90%;
+}
+
+
+#stopButton{
+    display: none;
+}
+
